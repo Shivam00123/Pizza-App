@@ -20,4 +20,4 @@ JWT Authentication
 <br/>
 MongoDB
 
-<img src="https://github.com/Shivam00123/Pizza-App/blob/master/Screenshot%20(37).png" width="100" height="auto"/>
+<img src="https://github.com/Shivam00123/Pizza-App/blob/master/Screenshot%20(37).png" width="100%" height="auto"/>
