@@ -2,7 +2,7 @@
 <br/>
 HTML
 <br/>
-SASS
+Tailwind css
 <br/>
 DOM
 <br/>
