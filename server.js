@@ -17,7 +17,8 @@ const port = process.env.PORT || 8000;
 app.use(cookieParser());
 app.use(flash());
 
-const url = process.env.MONGODB_URL;
+const url =
+  "mongodb+srv://shivamrawat06994:5glsL70HOzInHqCo@cluster0.uehq4an.mongodb.net/";
 mongoose.connect(url, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
